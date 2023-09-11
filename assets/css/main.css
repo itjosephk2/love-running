@@ -85,6 +85,7 @@ nav {
 
 /* Main Contenet */
 main {
+    margin-top: 47px;
     background-color: lightgreen;
     flex: 1 0 auto
 }
