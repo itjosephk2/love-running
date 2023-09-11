@@ -18,6 +18,11 @@ body {
     color: #3a3a3a;
 }
 
+/* Generic heading Fonts */
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
 /* Header */
 header {
     background-color: pink;
@@ -25,11 +30,11 @@ header {
 
 /* Main Contenet */
 main {
-    background-color: green;
+    background-color: lightgreen;
     flex: 1 0 auto
 }
 
 /* Footer */
 footer {
-    background-color: blue;
+    background-color: lightblue;
 }
