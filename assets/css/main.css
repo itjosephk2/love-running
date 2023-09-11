@@ -86,8 +86,14 @@ nav {
 /* Main Contenet */
 main {
     margin-top: 47px;
-    background-color: lightgreen;
     flex: 1 0 auto
+}
+
+/* hero styles */
+#hero {
+    width: 100%;
+    height: 600px;
+    background: url("../images/hero-image.webp") no-repeat center center/cover;
 }
 
 /* Footer */
