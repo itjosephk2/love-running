@@ -96,6 +96,11 @@ main {
     background: url("../images/hero-image.webp") no-repeat center center/cover;
 }
 
+/* Gallery Styles */
+#photos img {
+    width: 100%
+}
+
 /* Footer */
 #social-links {
     text-align: center;
